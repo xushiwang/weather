@@ -25,8 +25,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
     String type1="lifestyle";
     String city= "beijing";
     String shuju;
-    static String key="f453fcfc85204d079f3b7528ae82c61f";
-    String[] str = new String[]{"beijing","tianjin","shanghai"};
+    static String key="替换你自己的key";
     JavaBean data = new JavaBean();
     static SwipeRefreshLayout swipeRefresh;
     private boolean isRefresh = false;//是否刷新中
