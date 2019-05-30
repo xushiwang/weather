@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">小天气</string>
+    <string name="tip">请输入城市名，快速查询天气信息</string>
+    <string name="btn">查询</string>
+    <string name="laiyuan">数据由和风天气提供\n\nDesign by：许仕旺</string>
+
+</resources>
